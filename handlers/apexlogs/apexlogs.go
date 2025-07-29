@@ -9,8 +9,8 @@ import (
 
 	"github.com/tj/go-buffer"
 
-	"github.com/apex/log"
 	"github.com/apex/logs"
+	"github.com/magiusdarrigo/log"
 )
 
 // logger instance.

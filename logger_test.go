@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/apex/log"
-	"github.com/apex/log/handlers/discard"
-	"github.com/apex/log/handlers/memory"
+	"github.com/magiusdarrigo/log"
+	"github.com/magiusdarrigo/log/handlers/discard"
+	"github.com/magiusdarrigo/log/handlers/memory"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/apex/log"
 	"github.com/go-logfmt/logfmt"
+	"github.com/magiusdarrigo/log"
 )
 
 // TODO: syslog portion is ad-hoc for my serverless use-case,

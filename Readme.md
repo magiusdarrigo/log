@@ -31,7 +31,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/apex/log"
+	"github.com/magiusdarrigo/log"
 )
 
 func main() {
@@ -54,7 +54,7 @@ func main() {
 ---
 
 [![Build Status](https://semaphoreci.com/api/v1/projects/d8a8b1c0-45b0-4b89-b066-99d788d0b94c/642077/badge.svg)](https://semaphoreci.com/tj/log)
-[![GoDoc](https://godoc.org/github.com/apex/log?status.svg)](https://godoc.org/github.com/apex/log)
+[![GoDoc](https://godoc.org/github.com/magiusdarrigo/log?status.svg)](https://godoc.org/github.com/magiusdarrigo/log)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 ![](https://img.shields.io/badge/status-stable-green.svg)
 
