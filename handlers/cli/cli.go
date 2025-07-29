@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/apex/log"
 	"github.com/fatih/color"
+	"github.com/magiusdarrigo/log"
 	colorable "github.com/mattn/go-colorable"
 )
 

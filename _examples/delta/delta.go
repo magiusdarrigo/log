@@ -4,8 +4,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/apex/log"
-	"github.com/apex/log/handlers/delta"
+	"github.com/magiusdarrigo/log"
+	"github.com/magiusdarrigo/log/handlers/delta"
 )
 
 func main() {

@@ -1,9 +1,10 @@
 module github.com/magiusdarrigo/log
 
-go 1.23
+go 1.23.0
+
+toolchain go1.23.1
 
 require (
-	github.com/apex/log v1.9.0
 	github.com/apex/logs v1.0.0
 	github.com/aphistic/golf v0.0.0-20180712155816-02c07f170c5a
 	github.com/aybabtme/rgbterm v0.0.0-20170906152045-cc83f3b3ce59
@@ -14,16 +15,19 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/tj/assert v0.0.3
 	github.com/tj/go-buffer v1.1.0
-	github.com/tj/go-elastic v0.0.0-20171221160941-36157cbbebc2
 	github.com/tj/go-spin v1.1.0
 )
 
 require (
+	github.com/aphistic/sweet v0.3.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/google/uuid v1.1.1 // indirect
 	github.com/kr/logfmt v0.0.0-20140226030751-b84e30acd515 // indirect
+	github.com/kr/pretty v0.2.0 // indirect
 	github.com/mattn/go-isatty v0.0.8 // indirect
+	github.com/onsi/gomega v1.38.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	golang.org/x/sys v0.0.0-20190412213103-97732733099d // indirect
-	gopkg.in/yaml.v3 v3.0.0-20200605160147-a5ece683394c // indirect
+	golang.org/x/sys v0.33.0 // indirect
+	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
